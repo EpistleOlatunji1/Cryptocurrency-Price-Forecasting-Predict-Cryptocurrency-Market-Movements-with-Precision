@@ -1,0 +1,2 @@
+# Cryptocurrency-Price-Forecasting-Predict-Cryptocurrency-Market-Movements-with-Precision
+This project applied machine learning techniques to forecast cryptocurrency prices and analyze market trends. Using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Statsmodels, I built predictive models that improved my ability to interpret complex financial data and understand market volatility.
